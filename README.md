@@ -8,3 +8,8 @@ E' possibile impostare una classica condizione where tramite l'inserimento nelle
 
 Lambda che può essere integrata con Api Gateway per poter esporre un'api GET che effettua una'interrogazione sui dati
 JSON salvati in S3.
+
+
+<p align="center">
+  <img src="https://github.com/AndreaCiacciaCodeploy/CodeployAcademyS3select/blob/main/s3select.png?raw=true">
+</p>
