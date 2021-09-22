@@ -1,0 +1,14 @@
+{
+  "esempio": [
+    {
+      "esempio_id": "01",
+      "esempio_name": "Lambda S3select",
+      "esempio_code": "seselect_lambda"
+    },
+    {
+      "esempio_id": "02",
+      "esempio_name": "Lambda",
+      "esempio_code": "seselect_lambda2"
+    }
+  ]
+}
